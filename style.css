@@ -16,6 +16,8 @@ body{
 
 .question{
     font-size: 100px;
+    border: 4px ridge black;
+    border-radius: 15px;
 }
 
 .ans-row{
@@ -24,29 +26,29 @@ body{
 }
 
 .answer{
-    width: 65px;
-    height: 65px;
+    width: 120px;
+    height: 120px;
     border: 2px solid black;
-    border-radius: 5px;
-    margin: 10px;
+    border-radius: 15px;
+    margin: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 35px;
     background-color: rgba(255, 255, 255, 0);
 }
 
 .start-btn{
-    width: 120px;
-    height: 50px;
+    width: 240px;
+    height: 100px;
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 60px;
     background-color: rgba(255, 255, 255, 0);
     margin: auto;
     text-align: center;
