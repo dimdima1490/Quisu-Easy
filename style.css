@@ -16,7 +16,7 @@ body{
 
 .question{
     font-size: 100px;
-    border: 4px ridge black;
+    border: 4px solid black;
     border-radius: 15px;
 }
 
